@@ -236,7 +236,7 @@ input[type=range]::-ms-track {
 }
 
 .sounds {
-  width: clamp(25rem, 25rem + 10vw, 33.6rem);
+  width: 100%;
   display: grid;
   gap: 3.2rem;
   grid-template-areas: "A B"
